@@ -31,5 +31,5 @@ const generateRandomString = function (length) {
 }
 
 module.exports = {
-    /* generateRandomString */
+    generateRandomString
 }
